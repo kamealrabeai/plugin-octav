@@ -6,7 +6,7 @@ A powerful ElizaOS plugin for fetching real-time portfolio balances across multi
 
 ## ✨ Features
 
-- Fetchers portfolio balances
+- Fetchers portfolio balances 
 
 ## 🚀 Quick Start
 
